@@ -1,0 +1,5 @@
+# Demo of the format of the ``my_secrets.yaml`` file which has the real API keys. 
+
+apis:
+  wienerlinien: 
+    key: xxxxxxxxxxxxxxxx
