@@ -1,0 +1,4 @@
+obspy
+yaml
+matplotlib
+pandas
